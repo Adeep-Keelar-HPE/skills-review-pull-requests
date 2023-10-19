@@ -14,25 +14,19 @@ _Collaborate and work together on GitHub._
 </header>
 
 <!--
-  <<< Author notes: Step 3 >>>
+  <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
-  Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
 
-## Step 3: Leave a review
+## Step 4: Suggest changes
 
-_You assigned yourself! :tada:_
+_Nice work reviewing that pull request :sparkles:_
 
-Pull request reviews ensure quality and maintain momentum of changes to your project.
+Now that you have explored the different ways you can review a pull request it is time to learn how to use _suggest changes_.
 
-#### When reviewing a pull request:
+**What is _suggest changes_?**: This feature enables you to recommend a change to a pull request that the author can commit with the push of a button.
 
-1. Review the _title_ and _body_ of the pull request, and possibly any associated issue, to understand the intended change.
-1. Review the [diff](https://docs.github.com/en/get-started/quickstart/github-glossary#diff), the comparison of the proposed code, in the context of the whole project.
-1. For most things, try out the proposed change. Check if the actual change matches the intention. Find the repository's [contributing guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) to find out how to review the changes.
-
-#### In your review comments:
 
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
