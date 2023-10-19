@@ -14,18 +14,18 @@ _Collaborate and work together on GitHub._
 </header>
 
 <!--
-  <<< Author notes: Step 4 >>>
+  <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Suggest changes
+## Step 5: Apply suggested changes
 
-_Nice work reviewing that pull request :sparkles:_
+_Nicely done suggesting changes! :partying_face:_
 
-Now that you have explored the different ways you can review a pull request it is time to learn how to use _suggest changes_.
+Now let's see how easy it is to [apply your suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request).
 
-**What is _suggest changes_?**: This feature enables you to recommend a change to a pull request that the author can commit with the push of a button.
+### :keyboard: Activity: Apply suggested changes
 
 
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
